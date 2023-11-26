@@ -6,7 +6,7 @@ console.log(stringTotal)
 
 
 
-// Simlification en 2 variables
+// Simplification en 2 variables
 const stringOne = "Hello";
 const stringTwo = "Jesse";
 console.log(stringOne + " " + stringTwo);
